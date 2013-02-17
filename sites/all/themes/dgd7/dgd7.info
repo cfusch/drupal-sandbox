@@ -1,0 +1,19 @@
+name = DGD7 Theme
+description = A theme written for The Definitive Gude to DRupal 7 book website
+core = 7.x
+
+; DEFAULT REGIONS
+regions[page_top] = Page Top
+regions[header] = Header
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = Sidebar First
+regions[sidebar_second] = Sidebar Second
+regions[footer] = Footer
+regions[page_bottom] = Page Bottom
+
+; CUSTOM REGIONS
+regions[banner_ad] = Banner Ad
+regions[navigation] = Navigation
+
