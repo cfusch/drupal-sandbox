@@ -1,7 +1,11 @@
 name = DGD7 Theme
 description = A theme written for The Definitive Gude to DRupal 7 book website
 core = 7.x
-
+;
+;
+; This is a special note to see how to work with git
+;
+;
 ; DEFAULT REGIONS
 regions[page_top] = Page Top
 regions[header] = Header
